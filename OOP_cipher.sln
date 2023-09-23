@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_cipher", "OOP_cipher\OOP_cipher.csproj", "{91B56EA3-BBC6-4261-B291-A9E85C21CD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B56EA3-BBC6-4261-B291-A9E85C21CD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B56EA3-BBC6-4261-B291-A9E85C21CD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B56EA3-BBC6-4261-B291-A9E85C21CD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B56EA3-BBC6-4261-B291-A9E85C21CD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F02BD53-3242-4394-B0E2-285B2A591655}
+	EndGlobalSection
+EndGlobal
